@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Meera Tresa Sebastian</h1>
+<h3 align="center">A passionate full stack developer</h3>
 
 <!--
 **MeeraTresa/meeratresa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
