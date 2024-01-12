@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Microservices, Java, Spring Boot, Distributed Systems**
 
-- 🌱 I’m currently learning [Natural Language Processing](https://github.com/MeeraTresa/ChatBasedOnPDF)
+- 🌱 I’m currently learning [Natural Language Processing](https://github.com/MeeraTresa/Explore_NLP)
 
 - 🧗‍♀️ I'm building my skills in **Distributed Application Development**
 
